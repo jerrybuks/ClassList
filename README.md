@@ -1,2 +1,2 @@
 # ClassList
-A simple Html,a css framework and javascript application for generating student classLists
+A simple Html and javascript (also used a css framework) application for generating student classLists
